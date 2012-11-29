@@ -1,1 +1,1 @@
-Genomic references for share
+Genomic reference data for share
